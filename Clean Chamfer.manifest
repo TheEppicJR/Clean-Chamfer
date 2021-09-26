@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"3e35ca80-a033-4011-a8eb-af17ab487fc1",
+	"author":	"Ian Rist",
+	"description":	{
+		"":	"Creates a Chamfer using a Patch for Cleaner Edge Break Toolpaths"
+	},
+	"version":	"1.0",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
